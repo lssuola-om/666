@@ -1,0 +1,1 @@
+$(document).on("dialogopen",function(a){$("body, html").addClass("modal-open")});$(document).on("dialogclose",function(a){$("body, html").removeClass("modal-open")});
